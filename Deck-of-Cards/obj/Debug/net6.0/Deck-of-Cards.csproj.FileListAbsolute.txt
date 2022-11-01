@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\bin\Debug\net6.0\Deck-of-Cards.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\bin\Debug\net6.0\Deck-of-Cards.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\bin\Debug\net6.0\Deck-of-Cards.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\bin\Debug\net6.0\Deck-of-Cards.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\bin\Debug\net6.0\Deck-of-Cards.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\refint\Deck-of-Cards.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\Deck-of-Cards.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Deck-of-Cards\obj\Debug\net6.0\ref\Deck-of-Cards.dll
